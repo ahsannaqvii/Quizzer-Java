@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836635052745",
+    "project_id": "attendance-manager-86582",
+    "storage_bucket": "attendance-manager-86582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836635052745:android:adb6261267664bc834db18",
+        "android_client_info": {
+          "package_name": "com.example.grades24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836635052745-p6d52qduvueta4uilkenui7qd40jmmjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggafAJtRq_tDPg1LIoAi1FVkg4kmf4JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836635052745-p6d52qduvueta4uilkenui7qd40jmmjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
